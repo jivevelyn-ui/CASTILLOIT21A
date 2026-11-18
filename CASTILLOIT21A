@@ -1,0 +1,14 @@
+run:
+Enter your name: 
+re
+Enter your birth year: 
+w3
+Exception in thread "main" java.util.InputMismatchException
+	at java.base/java.util.Scanner.throwFor(Scanner.java:964)
+	at java.base/java.util.Scanner.next(Scanner.java:1619)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2284)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2238)
+	at PRELIM.methods.main(methods.java:22)
+C:\Users\evely\AppData\Local\NetBeans\Cache\27\executor-snippets\run.xml:111: The following error occurred while executing this line:
+C:\Users\evely\AppData\Local\NetBeans\Cache\27\executor-snippets\run.xml:68: Java returned: 1
+BUILD FAILED (total time: 4 seconds)
